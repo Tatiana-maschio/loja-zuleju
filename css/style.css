@@ -1,0 +1,19 @@
+/* Estilo geral da página */
+body {
+    background-color: #f4f4f4;  /* O fundo cinza clarinho! */
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+/* Estilo dos títulos */
+h1, h2 {
+    color: #000;
+    text-align: center;
+}
+
+/* O BÔNUS: Arrumando o tamanho do logo */
+img {
+    max-width: 300px; /* O logo terá no máximo 300 pixels de largura */
+    display: block;   /* Isso ajuda a centralizar a imagem */
+    margin: 20px auto; /* Adiciona uma margem e centraliza */
+}
